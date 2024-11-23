@@ -1,5 +1,7 @@
 # Stellar-Data-Analysis
 
+## Kaggle Notebook linki: https://www.kaggle.com/code/elifnurdemirezen/data-analysis
+
 ## Proje Özeti
 Bu proje, **Stellar Classification Dataset SDSS17** veri setini kullanarak, yıldızların sınıflandırılmasını gerçekleştirmeyi amaçlamaktadır. Veri seti, yıldızların çeşitli özelliklerini içeren veriler sunmaktadır.
 
